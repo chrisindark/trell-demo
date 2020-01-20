@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.p10 {
+  padding: 10px;
+}
+
+.p30 {
+  padding: 30px;
+}
+
+.grey {
+  background-color: grey;
+}
+
+.border-black {
+  border: 1px solid black;
+}
